@@ -2,7 +2,7 @@ Accessible through [this link](https://ba-computer-science-club.github.io/HTML-E
 
 # HTML-Example-Repo
 
-This is my website about birds. It talks about peacocks, eagles, and penguins.
+This is my website about birds. It talks about peacocks, eagles, and penguins. I do not own any of the information on this page.
 
 ## This is how it works:
 
